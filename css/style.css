@@ -1,0 +1,21 @@
+nav {
+    background: #dfe6e9 ;
+}
+
+
+body {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+header {
+    margin-top: 75px;
+}
+#testimonial{
+    background: #c7ecee ;
+    margin-top: 40px;
+}
+footer {
+    background: url(../img/cell.jpg) no-repeat right;
+}
+
+
